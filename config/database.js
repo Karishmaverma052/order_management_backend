@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 dotenv.config();
 
 const pool = new Pool({
-  user: 'cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc',
+  user: 'admin',
   password: 'gjeJDccKX05Yysvn1VEShEWbYELrMb1C',
   host: 'dpg-d8h7fuj7uimc73clpu4g-a',
   port: '5432',
