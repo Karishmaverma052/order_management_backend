@@ -6,10 +6,10 @@ dotenv.config();
 
 const pool = new Pool({
   user: 'admin',
-  password: 'gjeJDccKX05Yysvn1VEShEWbYELrMb1C',
-  host: 'dpg-d8h7fuj7uimc73clpu4g-a',
+  password: 'qsuwV8qiTD58w58xOZgw67KzEsdqXGDs',
+  host: 'dpg-d8h7k96q1p3s73fria40-a',
   port: '5432',
-  database: 'order_management_db_exeq',
+  database: 'order_management_db_vmfz',
 });
 
 pool.on('error', (err) => {
